@@ -1,0 +1,33 @@
+{
+  "name": "safeobject",
+  "version": "1.0.0",
+  "description": "Copy data from an object in a safe way",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:e-conomic/safeobject.git"
+  },
+  "keywords": [
+    "safe",
+    "object",
+    "errors"
+  ],
+  "author": "Economic A/S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-conomic/safeobject/issues"
+  },
+  "homepage": "https://github.com/e-conomic/safeobject",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.21.4",
+    "chai": "1.9.1",
+    "mocha-jshint": "0.0.9"
+  }
+}
