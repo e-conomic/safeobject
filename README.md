@@ -1,3 +1,8 @@
+Archived
+======
+Tech Leads: Repository archived due to inactivity in more than 6 months.
+Please remember to add a CODEOWNERS file to the root of the repository when unarchiving.
+
 Safe Object
 ===========
 Copy data from an object in a safe way. Make a rouge object ready for JSON-stringify. Read more about the problems this project aims to solve in the *the problem*-section in this readme file.
